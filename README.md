@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Thijke
 - 👀 I’m interested in coding, gaming and planes :D
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python / javascript
 - 📫 Reach out to me on discord! **thijke#1234**
