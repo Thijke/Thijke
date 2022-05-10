@@ -10,7 +10,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to use any of my projects!<br>
-Ask me anything <a href="https://discord.com/invite"><b>here</b></a><br>
+Ask me anything <a href="https://discord.com/invite/cEpDqadpKu"><b>here</b></a><br>
 
 <i>Happy Coding!</i> 😊
 
