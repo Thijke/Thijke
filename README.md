@@ -19,6 +19,7 @@ Ask me anything <a href="https://discord.com/invite/cEpDqadpKu"><b>here</b></a><
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thijke&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="thijke's Github Stats">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thijke&hide=TeX&layout=compact&theme=radical)
 
 
 </br>
