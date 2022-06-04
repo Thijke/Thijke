@@ -1,35 +1,10 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</div>
+### Hello! 👋
+My name is **Thijke** or [**Thijke#1234**](https://discord.com/users/765529614247657472)
+Check out my [**Website!**](https://thijke.nl)
 
-![](https://komarev.com/ghpvc/?username=thijke)
-
-<div align="center" width="50">
-
-</div>
-
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to use any of my projects!<br>
-Ask me anything <a href="https://discord.com/invite/cEpDqadpKu"><b>here</b></a><br>
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thijke&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="thijke's Github Stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijke&hide=TeX&layout=compact&theme=radical" alt="thijke's Github most used blabla">
+![https://discord.com/users/765529614247657472](https://discord.c99.nl/widget/theme-4/686800430176665621.png)
 
 
-</br>
-</br>
+![](https://github-readme-stats.vercel.app/api?username=Thijke&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10)
 
----
-
-<i>Dont forget to check out my site!</i><br>
-<a href="https://thijke.nl"><b>here</b></a><br>
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thijke&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
