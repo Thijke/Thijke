@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+Im+Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
 
-My name is **Thijke** or [**Thijke#1234**](https://discord.com/users/765529614247657472)
 Check out my [**Website!**](https://thijke.nl)
 
 ![https://discord.com/users/765529614247657472](https://discord.c99.nl/widget/theme-1/765529614247657472.png)
