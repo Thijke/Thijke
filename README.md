@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NanoSpacePlus&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 
 My name is **Thijke** or [**Thijke#1234**](https://discord.com/users/765529614247657472)
 Check out my [**Website!**](https://thijke.nl)
