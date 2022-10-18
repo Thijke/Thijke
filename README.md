@@ -1,4 +1,6 @@
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+Im+Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,+Im+Thijke&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+</p>
 
 Check out my [**Website!**](https://thijke.nl)
 
