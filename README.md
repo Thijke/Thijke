@@ -10,4 +10,4 @@ Check out my [**Website!**](https://thijke.nl)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thijke&layout=compact&theme=tokyonight&border_radius=10&langs_count=4)
 
-*i just make random things when im bored lol*
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R2G2HI2)
